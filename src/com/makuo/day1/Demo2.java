@@ -1,4 +1,4 @@
-package com.makuo.day1;
+package makuo.day1;
 
 import java.util.Scanner;
 

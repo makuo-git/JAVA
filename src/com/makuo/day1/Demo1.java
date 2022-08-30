@@ -1,6 +1,4 @@
-package com.makuo.day1;
-
-import java.util.Scanner;
+package makuo.day1;
 
 public class Demo1 {
     public static void main(String[] args) {
